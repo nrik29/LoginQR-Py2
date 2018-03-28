@@ -1,1 +1,1 @@
-# LoginQR-Py2
+get authToken py2
